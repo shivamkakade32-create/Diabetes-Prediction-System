@@ -1,2 +1,21 @@
-# Diabetes-Prediction-System
- The Diabetes Prediction System uses machine learning to predict a person’s risk of diabetes. It analyzes features like age, BMI, glucose level, and family history to provide early warnings. The system helps in preventive care and supports doctors and patients in making informed health decisions.
+Diabetes Prediction System
+
+Project Overview:
+This project predicts whether a patient has diabetes using Machine Learning.
+
+Technologies Used:
+Python
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+
+Machine Learning Model:
+Logistic Regression (Binary Classification)
+
+Dataset
+Pima Indians Diabetes Dataset (Kaggle)
+
+Author
+Shivam Kakade
+Data Science Internship – ML/AI
